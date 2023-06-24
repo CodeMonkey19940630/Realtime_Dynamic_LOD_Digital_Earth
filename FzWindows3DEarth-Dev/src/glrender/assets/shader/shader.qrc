@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>surface.frag</file>
+        <file>surface.vert</file>
+        <file>atmosphere.frag</file>
+        <file>atmosphere.vert</file>
+        <file>label.frag</file>
+        <file>label.vert</file>
+        <file>lines.frag</file>
+        <file>lines.vert</file>
+        <file>model.frag</file>
+        <file>model.vert</file>
+        <file>ortho.frag</file>
+        <file>ortho.vert</file>
+    </qresource>
+</RCC>

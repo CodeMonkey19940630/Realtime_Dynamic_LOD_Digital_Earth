@@ -1,0 +1,2 @@
+地图路径：root\res\earth_mapdata
+体积云网址： https://zhuanlan.zhihu.com/p/501039307

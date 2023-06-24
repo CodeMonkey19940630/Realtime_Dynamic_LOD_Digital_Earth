@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cLogo192.png</file>
+        <file>ok.png</file>
+        <file>cancel.png</file>
+    </qresource>
+</RCC>

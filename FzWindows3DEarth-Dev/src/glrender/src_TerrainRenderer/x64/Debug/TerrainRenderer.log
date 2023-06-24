@@ -1,0 +1,21 @@
+﻿生成启动时间为 2023/6/20 15:56:24。
+     1>项目“E:\WorkSpace\01_Code_project\demo\FzWindows3DEarth-Dev\src\glrender\src_TerrainRenderer\TerrainRenderer.vcxproj”在节点 4 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"E:\WorkSpace\01_Code_project\demo\FzWindows3DEarth-Dev\src\glrender\include" /I.\GeneratedFiles /I. /IE:\Qt\Qt5.9.1\5.9.1\msvc2013_64\include /I.\GeneratedFiles\Debug /IE:\Qt\Qt5.9.1\5.9.1\msvc2013_64\include\QtCore /IE:\Qt\Qt5.9.1\5.9.1\msvc2013_64\include\QtGui /IE:\Qt\Qt5.9.1\5.9.1\msvc2013_64\include\QtOpenGL /IE:\Qt\Qt5.9.1\5.9.1\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /D QT_WIDGETS_LIB /D TERRAINRENDERER_LIB /D _WINDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt TerrainRenderer.cpp
+         TerrainRenderer.cpp
+     1>e:\workspace\01_code_project\demo\fzwindows3dearth-dev\src\glrender\src_terrainrenderer\../../../include/glRender/FzNode/FzTerrainNode.h(5): warning C4005: “TERRAINRENDERER_EXPORT”: 宏重定义
+                 e:\workspace\01_code_project\demo\fzwindows3dearth-dev\src\glrender\src_terrainrenderer\terrainrenderer_global.h(6) : 参见“TERRAINRENDERER_EXPORT”的前一个定义
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\WorkSpace\01_Code_project\demo\FzWindows3DEarth-Dev\bin_x64_Debug/GLRender\\TerrainRenderer.dll" /NOLOGO /LIBPATH:"E:\WorkSpace\01_Code_project\demo\FzWindows3DEarth-Dev\bin_x64_Debug/GLRender" /LIBPATH:E:\Qt\Qt5.9.1\5.9.1\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5OpenGLd.lib opengl32.lib glu32.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\WorkSpace\01_Code_project\demo\FzWindows3DEarth-Dev\bin_x64_Debug/GLRender\TerrainRenderer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\WorkSpace\01_Code_project\demo\FzWindows3DEarth-Dev\bin_x64_Debug/GLRender\TerrainRenderer.lib" /MACHINE:X64 /DLL x64\Debug\FzQuadTile.obj
+         x64\Debug\moc_TileDataManager.obj
+         x64\Debug\TileDataManager.obj
+         x64\Debug\FzTerrainNode.obj
+         x64\Debug\qrc_terrain.obj
+         x64\Debug\TerrainRenderer.obj
+         TerrainRenderer.vcxproj -> E:\WorkSpace\01_Code_project\demo\FzWindows3DEarth-Dev\bin_x64_Debug/GLRender\TerrainRenderer.dll
+     1>已完成生成项目“E:\WorkSpace\01_Code_project\demo\FzWindows3DEarth-Dev\src\glrender\src_TerrainRenderer\TerrainRenderer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.20
